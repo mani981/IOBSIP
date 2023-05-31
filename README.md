@@ -4,6 +4,7 @@ Web Development and Designing Internship
 The web development internship offers practical work experience and an introduction to creating and improving web-based systems. 
 This internship will involve challenging opportunities, real world projects. 
 It’s a fantastic opportunity to gain hands-on experience in the web and/or app development field with an award-winning innovation team.
+
 **About Company**
 We develop personalized software at our company, we turn the digital dreams of our clients into a realiy.
 We work closely with our users throughout development to ensure that we are still aligned with the end-goal. 
